@@ -8,7 +8,7 @@ I see a few possible ways forward, preparsing a video and tagging the scenarios 
 
 
 DRINK WHEN:
-• contestant attempts something they've never done before; 2 drinks if it's canister damascus
+• contestant attempts something they've never done before; 2 drinks if it's canister damascus   
 • dropped steel
 • it will KEAL
 • knife doesn't meet parameters
